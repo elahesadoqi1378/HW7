@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\entities\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\entities\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\arya\\source\\repos\\consoleapp17\\consoleapp17\\data\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F60ADD-787D-4A0B-90D7-2B2E0C78EF07}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\data\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingList.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\ShoppingList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Entities\\ShoppingList.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\ShoppingList.cs",
+              "RelativeToolTip": "ConsoleApp17\\Entities\\ShoppingList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:28:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\UserServices.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\UserServices.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\UserServices.cs",
+              "RelativeToolTip": "ConsoleApp17\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:22:24.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Data\\Storage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Data\\Storage.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Data\\Storage.cs",
+              "RelativeToolTip": "ConsoleApp17\\Data\\Storage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:55:29.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\Product.cs",
+              "RelativeToolTip": "ConsoleApp17\\Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:46:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Entities\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp17\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:41:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp17\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:20:01.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

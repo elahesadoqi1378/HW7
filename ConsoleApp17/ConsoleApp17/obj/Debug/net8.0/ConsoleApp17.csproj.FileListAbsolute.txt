@@ -1,0 +1,14 @@
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.exe
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.deps.json
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.runtimeconfig.json
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.dll
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfo.cs
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.dll
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\refint\ConsoleApp17.dll
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.genruntimeconfig.cache
+C:\Users\ARYA\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ref\ConsoleApp17.dll
